@@ -21,7 +21,7 @@ This project allows you to control your computer's mouse using hand gestures det
 ## 📦 Installation
 
 1. **Clone the repository**
-   git clone https://github.com/ChAtulKumarPrusty/Hand-Gesture-Controlled-Virtual-Mouse.git
+   git clone https://github.com/SurajKumarpandey001/-Hand-Gesture-Controlled-Virtual-Mouse.git
    cd gesture-controlled-mouse
 
 
